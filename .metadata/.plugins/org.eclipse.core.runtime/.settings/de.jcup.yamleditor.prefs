@@ -1,0 +1,12 @@
+colorBlock=49,98,98
+colorBooleans=104,151,187
+colorComments=128,128,128
+colorDoubleStrings=128,0,64
+colorMappings=0,128,0
+colorNormalText=0,64,128
+colorSingleStrings=128,0,64
+colorTemplateVariable=255,51,153
+colorYamlKeywords=154,140,124
+de.jcup.yamleditor.templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+eclipse.preferences.version=1
+sourceFormatScalarStyleId=scalarStyleSingleQuoted

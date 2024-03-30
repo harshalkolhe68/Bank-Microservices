@@ -1,0 +1,11 @@
+build:
+ version: "1.0"
+ 
+accounts:
+ message:
+  contactDetails:
+   name: "Daniel Frank - Production Manager"
+   email: "Daniel@eazybank.com"
+  onCallSupport:
+   - (666) 255-4481
+   - (666) 255 4482
